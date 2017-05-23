@@ -1,0 +1,11 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.buy_word{
+	text-align: center;
+}
+.car{
+	margin-left: 70px;
+	cursor: pointer;
+}
